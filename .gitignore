@@ -1,11 +1,5 @@
 .project
-design-patterns-behavioral/target/classes/com/khauminhduy/bd/observer/Channel.class
-design-patterns-behavioral/target/classes/com/khauminhduy/bd/observer/NewsAgency.class
-design-patterns-behavioral/target/classes/com/khauminhduy/bd/observer/NewsChannel.class
-design-patterns-behavioral/target/classes/com/khauminhduy/bd/observer/ONewsAgency.class
-design-patterns-behavioral/target/classes/com/khauminhduy/bd/observer/ONewsChannel.class
-design-patterns-behavioral/target/classes/com/khauminhduy/bd/observer/PCLNewsAgency.class
-design-patterns-behavioral/target/classes/com/khauminhduy/bd/observer/PCLNewsChannel.class
+design-patterns-behavioral/target/classes/com/khauminhduy/bd/observer/*.class
 design-patterns-behavioral/target/classes/com/khauminhduy/ps/chain/CEO.class
 design-patterns-behavioral/target/classes/com/khauminhduy/ps/chain/ChainOfResponsibilityDemo.class
 design-patterns-behavioral/target/classes/com/khauminhduy/ps/chain/ChainOfResponsibilityEverydayDemo.class
@@ -174,3 +168,4 @@ solid/target/classes/META-INF/MANIFEST.MF
 solid/target/classes/META-INF/maven/com.khauminhduy/solid/pom.properties
 solid/target/classes/META-INF/maven/com.khauminhduy/solid/pom.xml
 solid/.classpath
+design-patterns-behavioral-2/target/classes/com/khauminhduy/App.class
