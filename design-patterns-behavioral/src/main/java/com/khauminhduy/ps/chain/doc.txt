@@ -1,0 +1,14 @@
+** Concepts
+- Decoupling of sender and receiver
+- Receiver contains reference to next receiver
+- Promotes loose coupling
+- No Handler - OK
+- Examples
+	- java.util.logging.Logger
+	- javax.servlet.Filter
+	- Spring Security Filter Chain
+
+** Pitfalls
+- Handling/Handler guarantee
+- Runtime configuration risk
+- Chain lenght/performance issues
